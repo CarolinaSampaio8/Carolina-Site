@@ -29,8 +29,7 @@ education:
       institution:  Faculty of Engineering of the University of Porto
       year: 2020
     - course: BSc, Engineering and Industrial Management
-      institution:  Faculty of Sciences and Technology of
-the University of Coimbra
+      institution:  Faculty of Sciences and Technology of the University of Coimbra
       year: 2018
 email: "carolina.msampaio8@gmail.com"
 superuser: true
