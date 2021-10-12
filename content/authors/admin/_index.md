@@ -1,44 +1,42 @@
 ---
-title: João Santos
-role: Business Intelligence Engineer in EU Supply Chain Analytics
-avatar_filename: avatar.jpg
+title: Carolina Sampaio
+role: Business Analyst I, Delivery Station Regional Mgmt
+avatar_filename: crofer-high-res-current-photo.jpg
 bio:
 interests:
-  - Process Optimization
-  - Machine Learning
-  - Data Visualization
-  - Data Mining
+ - Data Analytics
+ - Project Management
+ - Data Visualization
+ - Data Science
+ - [New interest] Software Development
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/joao96santos
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/joaopereiradsantos/
+    link: https://www.linkedin.com/in/carolinasferreira8/
   - icon: medium
     icon_pack: fab
     link: https://medium.com/@joaopereiradsantos
   - icon: github
     icon_pack: fab
-    link: https://github.com/joaopereiradsantos
+    link: https://github.com/carolinasampaio8
   - icon: kaggle
     icon_pack: fab
-    link: https://www.kaggle.com/joaopereiradsantos
+    link: https://www.kaggle.com/casamae1
 organizations:
   - name: Amazon
     url: "https://amazon.com/"
 education:
   courses:
-    - course: MEng in Chemical Engineering - Processes and Product
+    - course: MEng, Engineering and Industrial Management
       institution: Faculty of Engineering of the University of Porto
       year: 2020
-    - course: BSc in Engineering Sciences - Chemical Engineering
-      institution: Faculty of Engineering of the University of Porto
-      year: 2018
-email: "joaopereiradsantos@gmail.com"
+    - course: BSc, Engineering and Industrial Management
+      institution:  Faculty of Sciences and Technology of the University of Coimbra
+      year: 2017
+email: "carolina.msampaio8@gmail.com"
 superuser: true
 user_groups:
   - Researchers
@@ -46,14 +44,21 @@ user_groups:
 highlight_name: false
 ---
 
-João Pereira dos Santos is a **𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** specialized in **𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁** from Faculdade de Engenharia da Universidade do Porto (**𝗙𝗘𝗨𝗣**) currently working at **𝗔𝗺𝗮𝘇𝗼𝗻**, world's largest online marketplace, AI assistant provider, live-streaming platform and cloud computing platform as measured by revenue and market capitalization.
+Carolina Sampaio Ferreira is an Industrial and Management 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 from Faculdade de Engenharia da Universidade do Porto (𝗙𝗘𝗨𝗣) currently working at 𝗔𝗺𝗮𝘇𝗼𝗻,  world’s largest online marketplace, AI assistant provider, live-streaming platform and cloud computing platform as measured by revenue and market capitalization as Business Analyst I.
+Amazon aims to exceed the expectations of our customers by ensuring that their orders are delivered quickly, accurately, and in the most cost effective way possible.
+Currently, she's working at  **Amazon Logistics package fulfillment optimization** team. The team's mission is to constantly build new system’s learnings and insights and to propose new processes and best practices to the AMZL EU wider volume planning team, all year-round; on behalf of the customer.
 
-During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
+The main Carolina's responsabilties are:
 
-As a **𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲** enthusiast, João is intellectually curious and eager to learn and apply new Data-Oriented skill sets into daily challenges. During his **𝗠𝗮𝘀𝘁𝗲𝗿 𝗧𝗵𝗲𝘀𝗶𝘀** Project at **𝗔𝗺𝗸𝗼𝗿 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆** he wrote  _“Qualitative and Quantitative Analysis in Copper Electroplating Baths”_, where KPIs for Chemical Process Control were implemented on a Microsoft Power BI Dashboard. He started competing in beginner Kaggle Competitions and participated on the 2020 EUREKAthon - Challenge Data for Zero Hunger: a data-driven competition that addresses societal issues associated with sustainable development goals, later winning Hack@Home III by Tech@Catolica - A Second Wave Forecast of COVID-19 cases using **𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴** models like Auto-ARIMA, FB Prophet, XGBoost and Neural Networks.
+  -  Build strategic plans to fulfil customer demand at the fastest, cheapest and in a cost efficient way;
+  - Strongly collaborate with stakeholders outside the AMZL organization to understand their process and represent AMZLs processes on behalf of the team;
+  - Provide recommendations to the country teams as in what changes in the system should be planned for, and how it should be planned for;
+  - Build intelligence and new tools and data to the country teams in order to facilitate for them the decision making process for the short, medium and long-term planning;
+  - Work with wider Amazon teams in order to give the AMZL business a long-term view planning into how the volume will grow and be optimized;
+  - Drive last mile AMZL volume optimization plans working with local in country planning and operational teams.
 
-João currently works as a **𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲** Intern for the EU Inbound Cross Dock (IXD) Supply Chain and Transportation Team at **𝗔𝗺𝗮𝘇𝗼𝗻**.
+During her **𝗠𝗮𝘀𝘁𝗲𝗿 𝗧𝗵𝗲𝘀𝗶𝘀** Project at **𝗔𝗺𝗸𝗼𝗿 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆** she wrote  *“Cost of Ownership in a Semiconductor Company”*, and develop a supporting tool for the Purchasing department to achieve additional information regarding the behavior of the present company equipment and optimize the processes of future equipments selection. Among the lessons learned, the learning of intelligence architecture stands out (**Business Intelligence**). One of the most important aspects in this process it involved the connection between different databases distributed by different departments of the company. In addition, the final output of the project was implemented on a Microsoft Power BI Dashboard.
 
-_Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Control; Oil Refining and Petrochemistry; Industrial Informatics II; Entrepreneurship and Innovation; Engineering Project._
+After her first connection with BI worls, she started competing in beginner Kaggle Competitions and participated on the 2020 EUREKAthon - Challenge Data for Zero Hunger: a data-driven competition that addresses societal issues associated with sustainable development goals, later winning Hack@Home III by Tech@Catolica - A Second Wave Forecast of COVID-19 cases using **𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴** models like Auto-ARIMA, FB Prophet, XGBoost and Neural Networks.
 
-_Highlighted Certifications &  MOOC: AWS Certified Cloud Practitioner; Data Analyst with SQL Server by DataCamp; Complete Data Science Bootcamp 2020 by 365 Data Science; Process Mining Expert by Celonis._
+_Highlighted Certifications &  MOOC:  Data Analyst with SQL Server by DataCamp; Complete Data Science Bootcamp 2020 by 365 Data Science; Web Development with PHP and MySQL Database  by Udemy
