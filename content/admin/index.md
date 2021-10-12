@@ -1,7 +1,7 @@
 ---
 title: Carolina Sampaio
 role: Business Analyst I, Delivery Station Regional Mgmt
-avatar_filename: avatar.jpg
+avatar_filename: crofer-high-res-current-photo.jpg
 bio:
 interests:
   - Data Analytics 
