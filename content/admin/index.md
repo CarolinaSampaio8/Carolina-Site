@@ -1,6 +1,6 @@
 ---
 title: Carolina Sampaio
-role: B Analyst I, Delivery Station Regional Mgmt
+role: Business Analyst I, Delivery Station Regional Mgmt
 avatar_filename: crofer-high-res-current-photo.jpg
 bio:
 interests:
@@ -8,9 +8,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://www.linkedin.com/in/carolinasferreira8/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/carolinasferreira8/
