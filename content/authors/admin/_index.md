@@ -8,7 +8,7 @@ interests:
 - Project Management
 - Data Visualization
 - Data Science
-- New interest - Software Development
+- Software Development (New interest)
 social:
   - icon: envelope
     icon_pack: fas
