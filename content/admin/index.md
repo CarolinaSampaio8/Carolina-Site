@@ -61,6 +61,4 @@ During her **𝗠𝗮𝘀𝘁𝗲𝗿 𝗧𝗵𝗲𝘀𝗶𝘀** Project at **�
 After her first connection with BI worls, she started competing in beginner Kaggle Competitions and participated on the 2020 EUREKAthon - Challenge Data for Zero Hunger: a data-driven competition that addresses societal issues associated with sustainable development goals, later winning Hack@Home III by Tech@Catolica - A Second Wave Forecast of COVID-19 cases using **𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴** models like Auto-ARIMA, FB Prophet, XGBoost and Neural Networks.
 
 
-_Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Control; Oil Refining and Petrochemistry; Industrial Informatics II; Entrepreneurship and Innovation; Engineering Project._
-
-_Highlighted Certifications &  MOOC: AWS Certified Cloud Practitioner; Data Analyst with SQL Server by DataCamp; Complete Data Science Bootcamp 2020 by 365 Data Science; Process Mining Expert by Celonis._
+_Highlighted Certifications &  MOOC:  Data Analyst with SQL Server by DataCamp; Complete Data Science Bootcamp 2020 by 365 Data Science; Web Development with PHP and MySQL Database  by Udemy
