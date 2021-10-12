@@ -4,11 +4,6 @@ role: Business Analyst I, Delivery Station Regional Mgmt
 avatar_filename: crofer-high-res-current-photo.jpg
 bio:
 interests:
-  - Data Analytics 
-  - Project Management
-  - Data Visualization
-  - Data Science
-  - [New interest] Software Development
 social:
   - icon: envelope
     icon_pack: fas
