@@ -69,20 +69,12 @@ experience:
   date_end: "2020-08-01"
   date_start: "2020-02-01"
   description: |-
-     **Cost of Ownership Analysis in a Semiconduct Industry**
+    **Cost of Ownership Analysis in a Semiconduct Industry**
     - Strategy and Design of a Centralized Integration for an Interdepartmental Data System;
     - Qualitative Analysis Models and KPIs for Performance Tracking of Production Equipments;
     - Microsoft Power BI Dashboard Prototype.
   location: Mindelo, Portugal
   title: Master Thesis Project | Industrial Engineer & Management    
 
-
-- company: Continental
-  company_url: "https://www.continental.com/"
-  date_end: "2019-09-01"
-  date_start: "2019-08-01"
-  description: Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement.
-  location: Lousado, Portugal
-  title: Summer Research Intern
 
 ---
